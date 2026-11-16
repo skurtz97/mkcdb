@@ -1,1 +1,5 @@
 .clice
+*.o
+*.so
+*.dll
+*.d
